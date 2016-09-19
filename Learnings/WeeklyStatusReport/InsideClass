@@ -1,7 +1,27 @@
 What you learnt inside the class?
 
-Week1
+Week5
 
-#1 Learnt life cycles?
-#2 Learnt team work?
-#3 Learnt something....
+#1 We had big debate on Agile models
+#2 Learned about many software development models like waterfall, Prototyep,Spiral, Agile etc
+#3 To calculate the time required to build a project, there are different methods.
+   Some of them are Top down, Bottom up, LOC, function points etc;
+#4 To get a good adaptive model it should be combination of agile methods and unified processes.
+#5 Basic overview of COCOMO model for estimation
+
+Week6
+
+#1 Today we discussed about the design part of the project.
+#2 Design is basically a representation of our solution to a given problem statement
+#2 A good project design should follow this order
+   Goals --> Constraints --> Assumptions --> Decisions --> Ideas
+#3 We had discussed on one of our classmates projects "To check the security of an application" we followed the above order and wrote the design process.
+#4 Code is a design at lowest level of abstarction.
+#5 Learned about desirability and Feasibility
+#6 Desirability ->What we need to accomplish ?
+                -> How does a user interact with the projct?
+
+#7 Feasibility -> What is the core concept of the project and  its implementation details?
+    
+
+
