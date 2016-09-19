@@ -66,10 +66,10 @@ Date: 16 Sep 2016
 #3 We had discussed on one of our classmates projects "To check the security of an application" we followed the above order and wrote the design process.
 #4 Code is a design at lowest level of abstarction.
 #5 Learned about desirability and Feasibility
-#6 Desirability ->What we need to accomplish ?
-                -> How does a user interact with the projct?
+#6 Desirability -->What we need to accomplish ?
+                --> How does a user interact with the projct?
 
-#7 Feasibility -> What is the core concept of the project and  its implementation details?
+#7 Feasibility --> What is the core concept of the project and  its implementation details?
     
 
 
